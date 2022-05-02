@@ -1,0 +1,1 @@
+# config-application-properties-in-static-method-spring-boot
